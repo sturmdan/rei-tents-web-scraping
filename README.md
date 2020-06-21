@@ -1,0 +1,1 @@
+This code can be used to pull specs for all the tents on REI's website. 
